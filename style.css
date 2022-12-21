@@ -1,0 +1,44 @@
+@media only screen and (max-device-width: 900px) {
+  /* .menu { width:100%; } */
+}
+
+body {
+  font-family: Arial;
+  margin: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin: 0px;
+}
+
+span {
+  color: #febe01;
+}
+
+a {
+  color: #332200;
+}
+
+.item {
+  background: #111;
+  color: white;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+a {
+  display: inline-block;
+  background-color: #febe01;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 4px;
+}
